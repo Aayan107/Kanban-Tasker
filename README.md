@@ -3,10 +3,10 @@
 <div align="center">
     <h1>Kanban Tasker</h1>
     <p style="text-align:justify;">
-        An accessible, responsive Kanban Tasker web app built using Client-Server architecture with dynamic theming and drag-and-drop UI. Backend deployed on AWS and frontend on Netlify via CI/CD on using Github Actions. Security handled with HTTPS/SSL on AWS Application Load Balancer.
+        A user-friendly, agile <strong>Kanban Tasker</strong> web application created using Client-Server structure featuring adaptable theming and a drag-and-drop interface. The backend is set up on AWS while the frontend is hosted on Vercel using Github Actions for CI/CD. Security is managed through HTTPS/SSL on AWS Application Load Balancer.
     </p>
     <p>
-        <a href="https://kanban-task-management-web-app-one.vercel.app/Platform%20Launch">Live Site URL</a>
+        <a href="https://kanban-task-management-web-app-one.vercel.app">Live Site URL</a>
     </p>
 </div>
 
@@ -143,7 +143,7 @@ To get a local copy up and running follow these simple example steps.
 ### Installation
 1. Clone the repo
     ```sh
-    git clone https://github.com/aayan107
+    git clone https://github.com/Aayan107/Kanban-Tasker.git
     ```
 2. Install NPM packages
     ```sh
